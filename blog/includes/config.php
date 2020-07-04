@@ -5,8 +5,8 @@ session_start();
 //database credentials
 define('DBHOST','localhost');
 define('DBUSER','root');
-define('DBPASS','');
-define('DBNAME','blog');
+define('DBPASS','root');
+define('DBNAME','iqmah');
 
 $db = new PDO("mysql:host=".DBHOST.";dbname=".DBNAME, DBUSER, DBPASS);
 $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
@@ -16,7 +16,7 @@ $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 date_default_timezone_set('Africa/Lagos');
 
 //load classes as needed
-function __autoload($class) {
+spl_autoload_register(function($class) {
    
    $class = strtolower($class);
 
@@ -38,7 +38,7 @@ function __autoload($class) {
       require_once $classpath;
 	} 		
 	 
-}
+});
 
 $user = new User($db); 
 ?>

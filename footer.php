@@ -3,7 +3,7 @@
             <div class="row">
                 <div class="col-sm-6">
                     &copy; <?php echo date('Y'); ?> <a target="_blank" href="#">IQMAH</a>. All Rights Reserved.
-                    <p>This website DOES NOT belong to any political or any particular sect or denomination. The main aim of this website is to spread the true message of Islam to all the Human Beings.</p>
+                    <p>This website DOES NOT belong to any political or any particular sect or denomination. The main aim of this website is to spread the true message of Islam to the world.</p>
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">

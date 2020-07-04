@@ -9,7 +9,7 @@
                 <div class="row">
                     <div class="col-sm-5 text-center">
                         <div class="gmap">
-                              <iframe src="//www.google.com/maps/embed/v1/place?q=CIS%20Mosque&zoom=17&key=AIzaSyBZVheHdr22U1KTu9v-ADd8as9U9qmCBDA"></iframe>
+                              <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=No%204%20barnawa%20close,%20kaduna+()&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="http://www.gps.ie/">Find my location</a></div>
                         </div>
                     </div>
                     <div class="col-sm-7 map-content">
@@ -17,8 +17,7 @@
                             <li class="col-sm-6">
                                 <address>
                                     <h5>IQMAH</h5>
-                                    <p>CIS, University of Ilorin <br>
-                                    Kwara state</p>
+                                    <p>4 Barnawa Close, Barnawa, Kaduna</p>
                                     <p>Phone:08185824523 <br>
                                     Twitter:iqmah_official</p>
                                 </address>

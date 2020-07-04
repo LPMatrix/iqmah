@@ -9,7 +9,7 @@ body {
   background: #fff;
   font-family: 'Open Sans', sans-serif;
   color:#4e4e4e;
-  line-height: 22px;
+  line-height: 1.5;
 }
 
 h1,
@@ -2019,8 +2019,6 @@ textarea#message{
   color: #fff;
   padding: 8px;
   position: relative;
-  left: 60px;
-  top: -18px;
   font-weight: normal;
 }
 

@@ -6,7 +6,7 @@ require_once('includes/config.php');
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-	<title>miftaun</title>
+	<title>IQMAH</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8">
@@ -36,13 +36,13 @@ require_once('includes/config.php');
 	<header>
 		<div class="container-fluid position-relative no-side-padding">
 
-			<a href="#" class="logo"><b>MIFTAUN</b></a>
+			<a href="#" class="logo"><b>IQMAH</b></a>
 
 			<div class="menu-nav-icon" data-nav-menu="#main-menu"><i class="ion-navicon"></i></div>
 
 			<ul class="main-menu visible-on-click" id="main-menu">
-                <li class="active"><a href="../blog/index.php">Library</a></li>
-                <li><a href="../quran.php#!#/quran-wordbyword/1">Quran</a></li>
+                <li class="active"><a href="../blog/index.php">Blog</a></li>
+                <li><a href="../quran.php">Quran</a></li>
                 <li><a href="../hadith.php">Hadith</a></li>
                 <li><a href="../madrasa.php">Madrasah</a></li>
                 <li><a href="../misconceptions.php">Misconceptions</a></li>

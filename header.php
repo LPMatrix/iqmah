@@ -81,13 +81,13 @@
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categories <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
-                                <li><a href="blog/index.php">Library</a></li>
-                                <li><a href="quran.php#!#/quran-wordbyword/1">Quran</a></li>
+                                <li><a href="quran.php">Quran</a></li>
                                 <li><a href="hadith.php">Hadith</a></li>
                                 <li><a href="madrasa.php">Madrasah</a></li>
                                 <li><a href="misconceptions.php">Misconceptions</a></li>
                             </ul>
                         </li>
+                        <li><a href="blog/index.php">Blog</a></li>
                         <li><a href="fun.php">Fun</a></li>
                         <li><a href="contact-us.php">Contact</a></li>
                     </ul>
